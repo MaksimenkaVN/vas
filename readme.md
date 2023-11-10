@@ -8,3 +8,4 @@ finish
 !!! GIT Fetch TEST !!!
 
 fix22 from local
+delete fix22 from local
